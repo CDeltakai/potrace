@@ -1,5 +1,5 @@
 {
-    "name": "oslllo-potrace",
+    "name": "oslllo-potrace-updated",
     "version": "3.0.0",
     "description": "A \"1:1 output\" JavaScript port of Potrace JS for NodeJS.",
     "main": "src/index.js",
